@@ -1,12 +1,19 @@
 # 🚀 Tailwind CSS Project - x.com (twitter.com)
 
-This is a **responsive web project** built using **Tailwind CSS**. It includes a simple structure with HTML and Tailwind styling.
+This is a **responsive web page** built using **Tailwind CSS**. It includes a simple structure with HTML and Tailwind styling.
 
 ## 🎨 Technologies Used
 - **Tailwind CSS 4.0** - Utility-first CSS framework
 - **HTML** - Structure and content
-- **Node.js & npm** - Package management
+- **Node.js & npm** - Package management  
 
+## 📸 Screenshots
+
+### Desktop View
+
+![Desktop View](screenshots/desktop.png)   
+
+<<<<<<< HEAD
 ## ✨ Features
 
 ### 🎯 Core Features
@@ -53,7 +60,7 @@ Make sure you have the following installed on your system:
 
 1. **Clone or download the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/SahityaNaik/X-Twitter-Clone.git   
    cd X-Twitter-Clone
    ```
 
@@ -83,12 +90,4 @@ Make sure you have the following installed on your system:
 - The compiled CSS is output to `src/output.css`
 - Simply refresh your browser to see changes
 
-## 📸 Screenshots
-
-### Desktop View
-
-![Desktop View](screenshots/desktop.png)   
-
-
-> **Note:** Screenshots can be added to a `screenshots/` folder in the project root. Replace the image paths above with your actual screenshot files.
 
