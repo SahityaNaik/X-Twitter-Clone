@@ -13,7 +13,7 @@ This is a **responsive web page** built using **Tailwind CSS**. It includes a si
 
 ![Desktop View](screenshots/desktop.png)   
 
-<<<<<<< HEAD
+
 ## ✨ Features
 
 ### 🎯 Core Features
