@@ -45,7 +45,7 @@ X-Twitter-Clone/
 │
 ├── package.json            # Project dependencies and scripts
 ├── package-lock.json       # Locked dependency versions
-├── tailwaind.config.js     # Tailwind CSS configuration
+├── tailwind.config.js      # Tailwind CSS configuration
 └── README.md               # Project documentation
 ```
 
